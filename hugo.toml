@@ -1,0 +1,14 @@
+languageCode = 'en-us'
+baseURL = "https://tomyks.github.io/tomasgonzalezvrblog/"
+title = "tomasgonzalezvrblog"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  displayFullLangName = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
