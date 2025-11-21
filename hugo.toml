@@ -5,6 +5,9 @@ theme = "PaperMod"
 
 enableRobotsTXT = true
 
+[pagination]
+  pagerSize = 10
+
 [params]
   defaultTheme = "auto"
   displayFullLangName = true
