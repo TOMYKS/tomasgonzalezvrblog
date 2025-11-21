@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tomyks.github.io/tomasgonzalezvrblog/sitemap.xml
